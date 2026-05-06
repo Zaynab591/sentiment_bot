@@ -1,0 +1,12 @@
+None: Men xursandman -> 😊 Positive
+None: 📊 Sentiment tekshir -> 😐 Neutral
+None: Men bugun juda xursandman -> 😊 Positive
+None: Kelinoyim uyga kecha bolalarini olib keldi -> 😐 Neutral
+None: U koʻp yigʻladi bu yomonmi -> 😔 Negative
+None: Man ozmmi erke his qildim hoz bu vedioni korib oylab qarasam Umiddan farqim yu ekan😂😂😂😂😂😂😂😂 -> 😐 Neutral
+None: Bavi kop ishlatim reklamadigi zor qib bermasakan doglaniyam unaqa ketkizmidi qozoniyam ivitib kordim ketmadi -> 😐 Neutral
+None: 📊 Sentiment tekshir -> 😐 Neutral
+None: Ajoyib -> 😊 Positive
+None: 📊 Sentiment tekshir -> 😐 Neutral
+unknown: @Dilobar_03 fikri
+https://youtube.com/shorts/gQXf6DbdLWs?lc=Ugy5biG8G64BbqWhvdN4AaABAg&si=y3Aj9lhrCY1QHNlr -> 😐 Neutral
